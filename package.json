@@ -1,0 +1,22 @@
+{
+  "name": "robokids.github.io",
+  "version": "1.0.0",
+  "description": "Robokids test",
+  "main": "index.js",
+  "scripts": {
+    "test": "browserify index.js > bundle.js && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tras86/robokids.github.io.git"
+  },
+  "keywords": [
+    "robokids"
+  ],
+  "author": "Andrej",
+  "license": "SEE LICENCE IN licence.md",
+  "bugs": {
+    "url": "https://github.com/tras86/robokids.github.io/issues"
+  },
+  "homepage": "https://github.com/tras86/robokids.github.io#readme"
+}
